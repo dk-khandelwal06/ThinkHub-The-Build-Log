@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="assets/thinkhub-logo.png" width="220" alt="ThinkHub Logo">
+  <img src="assets/thinkhub-logo.png" width="200" alt="ThinkHub Logo">
 </p>
 
 <h1 align="center">
@@ -8,12 +8,10 @@
   </a>
 </h1>
 
-<p align="center">
-  <strong>Ideas. Projects. Development. Innovation.</strong>
-</p>
+<h3 align="center">Ideas. Projects. Development. Innovation.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/THINKHUB-ORIGINAL%20SERIES-FFD700?style=for-the-badge&logo=youtube&logoColor=black">
+  <img src="https://img.shields.io/badge/THINKHUB-ORIGINAL%20SERIES-FFD700?style=for-the-badge">
   <img src="https://img.shields.io/badge/CONTENT-BUILD%20IN%20PUBLIC-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/FORMAT-PROJECT%20JOURNEY-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/PLATFORM-YOUTUBE-red?style=for-the-badge&logo=youtube">
@@ -25,91 +23,171 @@
 
 ---
 
-## 🚀 About The Build Log
+<h2 align="center">🚀 ABOUT THE BUILD LOG</h2>
 
-**The Build Log** is an original project-building series by **ThinkHub**, created to document the journey of turning ideas into real-world digital products, applications, experiments, and innovative solutions.
+<p align="center">
+  <strong>The Build Log</strong> is an original project-building series by <strong>ThinkHub</strong>, documenting the journey of transforming ideas into real-world digital products, AI applications, software, experiments and innovative solutions.
+</p>
 
-From the first idea to the final deployment, this series takes viewers behind the scenes of actual development.
+<p align="center">
+  From the first idea to the final deployment, explore the complete development journey — planning, designing, coding, testing, debugging and building.
+</p>
 
-It explores how projects are conceptualised, planned, designed, developed, tested, improved, and launched using modern technologies and development tools.
+<p align="center">
+  Unlike traditional tutorials that focus only on the final result, <strong>The Build Log</strong> takes you behind the scenes of actual project development.
+</p>
 
-Unlike traditional tutorials that focus only on the final result, **The Build Log focuses on the complete building journey — including experiments, challenges, failures, problem-solving, and breakthroughs.**
-
-The series officially begins on **1st November 2026**, with new episodes on alternate Sundays.
-
-> 🎯 **The mission:** Don't just talk about technology. Build with it, experiment with it, and show the journey.
-
----
-
-## 🛠️ What You'll Find Here
-
-This repository serves as the official public archive of The Build Log series.
-
-| 💡 Category | 🔍 What We Explore |
-| :---: | :--- |
-| 🤖 **AI & Machine Learning** | AI applications, ML models, intelligent systems and experiments |
-| 🌐 **Web Development** | Websites, web applications, frontend and backend development |
-| 📊 **Data Science** | Data analysis, visualisation, data pipelines and insights |
-| ⚙️ **Software Development** | Programming, software architecture, APIs and integrations |
-| 🧠 **AI Tools & Automation** | AI-powered workflows, agents and automation tools |
-| 🚀 **Product Building** | From idea validation to functional digital products |
-| ☁️ **Deployment & Hosting** | GitHub, Vercel, cloud platforms and deployment workflows |
-| 🔬 **Experiments & Innovation** | Prototypes, testing, debugging and new technologies |
+<p align="center">
+  <strong>🎯 The mission:</strong><br>
+  Don't just learn technology. Build with it. Experiment with it. Create something meaningful.
+</p>
 
 ---
 
-# 🎬 Episodes Archive
+<h2 align="center">🛠️ WHAT YOU'LL FIND HERE</h2>
+
+<p align="center">
+  This repository is the official public archive of The Build Log series.
+</p>
+
+<div align="center">
+
+| 💡 CATEGORY | 🔍 WHAT WE EXPLORE |
+|:---:|:---:|
+| 🤖 Artificial Intelligence | AI applications, intelligent systems and experiments |
+| 📊 Data Science | Data analysis, visualisation and insights |
+| 🌐 Web Development | Websites, frontend and backend applications |
+| ⚙️ Software Development | Programming, APIs and software architecture |
+| 🧠 AI & Automation | AI agents, tools and automated workflows |
+| 🚀 Product Building | Ideas, prototypes and digital products |
+| ☁️ Deployment | GitHub, Vercel and cloud platforms |
+| 🔬 Innovation | Experiments, testing and emerging technologies |
+
+</div>
+
+---
+
+<h2 align="center">🎬 EPISODES ARCHIVE</h2>
 
 <p align="center">
   <i>Every project has a story. Every build has a journey.</i>
 </p>
 
-> **Note:** Episode thumbnails, project repositories, live demos and video links will be updated as new episodes are published.
+<p align="center">
+  New episodes are published on alternate Sundays at <strong>5:00 PM IST</strong>.
+</p>
 
----
+<h3 align="center">📅 NOVEMBER 2026</h3>
 
-### 📅 November 2026
+<div align="center">
 
-| 🖼️ Thumbnail | 📅 Date | 🎯 Project / Episode | 💻 GitHub | ▶️ Watch |
-| :---: | :---: | :--- | :---: | :---: |
-| <img src="thumbnails/01.png" width="260"> | **01 Nov 2026** | **Episode 01 — Coming Soon** | — | [▶️ Watch](#) |
-| <img src="thumbnails/02.png" width="260"> | **15 Nov 2026** | **Episode 02 — Coming Soon** | — | [▶️ Watch](#) |
-| <img src="thumbnails/03.png" width="260"> | **29 Nov 2026** | **Episode 03 — Coming Soon** | — | [▶️ Watch](#) |
+| 🖼️ THUMBNAIL | 📅 DATE | 🎯 EPISODE | 💻 PROJECT | ▶️ VIDEO |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="thumbnails/01.png" width="200"> | 01 Nov | Project 01 | Coming Soon | [Watch](#) |
+| <img src="thumbnails/02.png" width="200"> | 15 Nov | Project 02 | Coming Soon | [Watch](#) |
+| <img src="thumbnails/03.png" width="200"> | 29 Nov | Project 03 | Coming Soon | [Watch](#) |
 
----
+</div>
 
-### 📅 December 2026
+<h3 align="center">📅 DECEMBER 2026</h3>
 
-| 🖼️ Thumbnail | 📅 Date | 🎯 Project / Episode | 💻 GitHub | ▶️ Watch |
-| :---: | :---: | :--- | :---: | :---: |
-| <img src="thumbnails/04.png" width="260"> | **13 Dec 2026** | **Episode 04 — Coming Soon** | — | [▶️ Watch](#) |
-| <img src="thumbnails/05.png" width="260"> | **27 Dec 2026** | **Episode 05 — Coming Soon** | — | [▶️ Watch](#) |
+<div align="center">
 
----
+| 🖼️ THUMBNAIL | 📅 DATE | 🎯 EPISODE | 💻 PROJECT | ▶️ VIDEO |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="thumbnails/04.png" width="200"> | 13 Dec | Project 04 | Coming Soon | [Watch](#) |
+| <img src="thumbnails/05.png" width="200"> | 27 Dec | Project 05 | Coming Soon | [Watch](#) |
 
-## 📊 Series Snapshot
+</div>
 
 <p align="center">
-
-| 📌 | Details |
-| :---: | :--- |
-| 🎬 **Series** | The Build Log |
-| 🏷️ **Brand** | ThinkHub |
-| 📅 **Started** | 1st November 2026 |
-| 📆 **Frequency** | Alternate Sundays |
-| 🕔 **Premiere** | 5:00 PM |
-| 🎯 **Focus** | Projects • AI • Development • Innovation |
-| 🖥️ **Format** | Project Building & Development Journey |
-| 📺 **Platform** | YouTube |
-| 👤 **Creator** | Daksh Khandelwal |
-
+  <i>More projects and episodes will be added regularly.</i>
 </p>
 
 ---
 
-# 🗂️ Repository Structure
+<h2 align="center">📊 SERIES SNAPSHOT</h2>
 
-```text
+<div align="center">
+
+| 📌 | DETAILS |
+|:---:|:---:|
+| 🎬 Series | The Build Log |
+| 🏷️ Brand | ThinkHub |
+| 📅 Launch Date | 1 November 2026 |
+| 📆 Frequency | Alternate Sundays |
+| 🕔 Premiere Time | 5:00 PM IST |
+| 🎯 Focus | AI • Projects • Development • Innovation |
+| 🎥 Format | Project Building & Development |
+| 📺 Platform | YouTube |
+| 👤 Creator | Daksh Khandelwal |
+
+</div>
+
+---
+
+<h2 align="center">🔨 THE BUILDING PROCESS</h2>
+
+<p align="center">
+  <strong>💡 IDEA → 📝 PLAN → 💻 BUILD → 🧪 TEST → ☁️ DEPLOY → 🎬 SHARE</strong>
+</p>
+
+<p align="center">
+  <strong>01. IDEA</strong><br>
+  Identify a problem or an interesting opportunity.
+</p>
+
+<p align="center">
+  <strong>02. PLAN</strong><br>
+  Define objectives, features, architecture and technologies.
+</p>
+
+<p align="center">
+  <strong>03. BUILD</strong><br>
+  Develop the project and implement its features.
+</p>
+
+<p align="center">
+  <strong>04. TEST</strong><br>
+  Experiment, debug, evaluate and improve.
+</p>
+
+<p align="center">
+  <strong>05. DEPLOY</strong><br>
+  Launch the application and make it accessible.
+</p>
+
+<p align="center">
+  <strong>06. SHARE</strong><br>
+  Document the complete journey through The Build Log.
+</p>
+
+---
+
+<h2 align="center">📁 PROJECT DOCUMENTATION</h2>
+
+<p align="center">
+  Individual projects may include the following resources:
+</p>
+
+<div align="center">
+
+| 📂 RESOURCE | 📝 DESCRIPTION |
+|:---:|:---:|
+| 💻 Source Code | Complete implementation |
+| 📄 README | Project overview and setup |
+| 🖼️ Screenshots | Interface and visual previews |
+| 🎬 Demo Video | Project demonstration |
+| 🌐 Live Demo | Deployed application |
+| 📚 Documentation | Architecture and technical details |
+
+</div>
+
+---
+
+<h2 align="center">🗂️ REPOSITORY STRUCTURE</h2>
+
+<pre align="center">
 ThinkHub-Build-Log/
 │
 ├── README.md
@@ -125,7 +203,6 @@ ThinkHub-Build-Log/
 ├── thumbnails/
 │   ├── 01.png
 │   ├── 02.png
-│   ├── 03.png
 │   └── ...
 │
 ├── projects/
@@ -136,113 +213,73 @@ ThinkHub-Build-Log/
 └── documentation/
     ├── project-notes/
     └── resources/
-```
+</pre>
 
 ---
 
-# 🔨 How The Build Log Works
+<h2 align="center">📺 THE THINKHUB CONTENT UNIVERSE</h2>
+
+<h3 align="center">📰 BEYOND THE HEADLINES</h3>
 
 <p align="center">
-  <strong>IDEA → PLAN → BUILD → TEST → DEPLOY → SHARE</strong>
+  A daily news and analysis series exploring current affairs, technology, AI, geopolitics, business, science and the deeper perspective behind important headlines.
 </p>
 
-Every project follows a practical development journey:
+<p align="center"><strong>Daily. News. Perspective.</strong></p>
 
-1. 💡 **IDEA** — Identify a problem or interesting opportunity.
-2. 📝 **PLAN** — Define objectives, features, architecture and tools.
-3. 💻 **BUILD** — Develop the actual project and implement its features.
-4. 🧪 **TEST** — Experiment, debug, evaluate and improve.
-5. ☁️ **DEPLOY** — Make the project accessible through deployment.
-6. 🎬 **SHARE** — Document the complete journey through The Build Log.
-
-Not every project follows the exact same process. Some experiments may evolve, change direction, or lead to entirely new ideas.
-
----
-
-# 📁 Project Documentation
-
-Each project may include:
-
-| 📂 Resource | 📝 Description |
-| :---: | :--- |
-| 💻 **Source Code** | Project source code and implementation |
-| 📄 **README** | Project overview, features and setup instructions |
-| 🖼️ **Screenshots** | Interface previews and project visuals |
-| 🎬 **Demo Video** | Demonstration of the working project |
-| 🌐 **Live Demo** | Deployed application, where available |
-| 📚 **Documentation** | Architecture, workflow and technical details |
-
-The contents will vary depending on the individual project.
-
----
-
-# 🌟 Why The Build Log?
-
-Building something is different from simply learning about it.
-
-A project involves making decisions, solving unexpected problems, exploring unfamiliar technologies, and continuously improving an idea.
-
-**The Build Log** is an attempt to make that journey visible.
-
-It is about showing the process, not just presenting the outcome.
-
-> "Don't just learn how things work. Build something that works."
-
----
-
-# 📺 ThinkHub Content Universe
-
-ThinkHub brings together different content formats, each with its own purpose.
-
-### 📰 Beyond The Headlines
-
-A daily news and analysis series exploring current affairs, technology, AI, geopolitics, business, science and the deeper perspective behind important headlines.
-
-**Daily. News. Perspective.**
-
-### 🎓 ThinkHub Decoded
-
-A weekly educational series covering technology, artificial intelligence, data science, programming, career roadmaps, tutorials and important concepts.
-
-**Weekly. Knowledge. Growth.**
-
-### 🔨 The Build Log
-
-A project-building series documenting real development journeys, experiments, AI applications, software projects and innovations.
-
-**Build. Experiment. Create.**
-
----
-
-# 🧠 The ThinkHub Philosophy
+<h3 align="center">🎓 THINKHUB DECODED</h3>
 
 <p align="center">
-  <h2 align="center">THINK. LEARN. GROW.</h2>
+  A weekly educational series exploring artificial intelligence, data science, programming, technology, careers, roadmaps and important concepts.
 </p>
 
-**💭 THINK**
+<p align="center"><strong>Weekly. Knowledge. Growth.</strong></p>
 
-Question ideas. Explore possibilities. Think beyond limitations.
+<h3 align="center">🔨 THE BUILD LOG</h3>
 
-**📚 LEARN**
+<p align="center">
+  A project-building series showcasing real-world development, AI applications, experiments, software projects and innovation.
+</p>
 
-Understand technologies. Develop skills. Learn through experimentation.
-
-**🚀 BUILD**
-
-Turn knowledge into practical solutions. Create. Test. Improve.
-
-**🌱 GROW**
-
-Share experiences. Learn from failures. Keep moving forward.
+<p align="center"><strong>Build. Experiment. Create.</strong></p>
 
 ---
 
-# 🔗 Connect With ThinkHub
+<h2 align="center">🧠 THE THINKHUB PHILOSOPHY</h2>
+
+<h1 align="center">THINK. LEARN. GROW.</h1>
+
+<p align="center">
+  💭 <strong>THINK</strong><br>
+  Question ideas. Explore possibilities. Think beyond limitations.
+</p>
+
+<p align="center">
+  📚 <strong>LEARN</strong><br>
+  Understand technologies. Develop skills. Learn through experimentation.
+</p>
+
+<p align="center">
+  🚀 <strong>BUILD</strong><br>
+  Turn knowledge into practical solutions. Create. Test. Improve.
+</p>
+
+<p align="center">
+  🌱 <strong>GROW</strong><br>
+  Share experiences. Learn from failures. Keep moving forward.
+</p>
+
+<p align="center">
+  <i>"Don't just learn how things work. Build something that works."</i>
+</p>
+
+---
+
+<h2 align="center">🔗 CONNECT WITH THINKHUB</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/@ThinkHubbydaksh">
-    <img src="https://img.shields.io/badge/▶_SUBSCRIBE_TO_THINKHUB-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/SUBSCRIBE%20TO%20THINKHUB-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://github.com/dk-khandelwal06">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -256,14 +293,12 @@ Share experiences. Learn from failures. Keep moving forward.
 ---
 
 <p align="center">
-  <img src="assets/thinkhub-logo.png" width="110" alt="ThinkHub Logo">
+  <img src="assets/thinkhub-logo.png" width="130" alt="ThinkHub Logo">
 </p>
 
 <h2 align="center">THINKHUB</h2>
 
-<p align="center">
-  <strong>THINK. LEARN. GROW.</strong>
-</p>
+<h3 align="center">THINK. LEARN. GROW.</h3>
 
 <p align="center">
   <i>Ideas become projects. Projects become possibilities.</i>
@@ -277,7 +312,7 @@ Share experiences. Learn from failures. Keep moving forward.
 
 <p align="center">
   <a href="https://www.youtube.com/@ThinkHubbydaksh">YouTube</a>
-  •
+  &nbsp; • &nbsp;
   <a href="https://github.com/dk-khandelwal06">GitHub</a>
 </p>
 
