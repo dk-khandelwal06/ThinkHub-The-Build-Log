@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://www.youtube.com/@ThinkHubbydaksh">
-    THE BUILD LOG
+    The Build Log
   </a>
 </h1>
 
@@ -23,24 +23,19 @@
 
 ---
 
-<h2 align="center">🚀 ABOUT THE BUILD LOG</h2>
+## 🚀 About The Build Log
 
-<p align="center">
-  <strong>The Build Log</strong> is an original project-building series by <strong>ThinkHub</strong>, documenting the journey of transforming ideas into real-world digital products, AI applications, software, experiments and innovative solutions.
-</p>
+**The Build Log** is an original project-building series by **ThinkHub**, created to document the journey of turning ideas into real-world digital products, applications, experiments, and innovative solutions.
 
-<p align="center">
-  From the first idea to the final deployment, explore the complete development journey — planning, designing, coding, testing, debugging and building.
-</p>
+From the first idea to the final deployment, this series takes viewers behind the scenes of actual development.
 
-<p align="center">
-  Unlike traditional tutorials that focus only on the final result, <strong>The Build Log</strong> takes you behind the scenes of actual project development.
-</p>
+It explores how projects are conceptualised, planned, designed, developed, tested, improved, and launched using modern technologies and development tools.
 
-<p align="center">
-  <strong>🎯 The mission:</strong><br>
-  Don't just learn technology. Build with it. Experiment with it. Create something meaningful.
-</p>
+Unlike traditional tutorials that focus only on the final result, **The Build Log focuses on the complete building journey — including experiments, challenges, failures, problem-solving, and breakthroughs.**
+
+The series officially begins on **1st November 2026**, with new episodes on alternate Sundays.
+
+> 🎯 **The mission:** Don't just talk about technology. Build with it, experiment with it, and show the journey.
 
 ---
 
@@ -126,41 +121,22 @@
 
 ---
 
-<h2 align="center">🔨 THE BUILDING PROCESS</h2>
+# 🔨 How The Build Log Works
 
 <p align="center">
-  <strong>💡 IDEA → 📝 PLAN → 💻 BUILD → 🧪 TEST → ☁️ DEPLOY → 🎬 SHARE</strong>
+  <strong>IDEA → PLAN → BUILD → TEST → DEPLOY → SHARE</strong>
 </p>
 
-<p align="center">
-  <strong>01. IDEA</strong><br>
-  Identify a problem or an interesting opportunity.
-</p>
+Every project follows a practical development journey:
 
-<p align="center">
-  <strong>02. PLAN</strong><br>
-  Define objectives, features, architecture and technologies.
-</p>
+1. 💡 **IDEA** — Identify a problem or interesting opportunity.
+2. 📝 **PLAN** — Define objectives, features, architecture and tools.
+3. 💻 **BUILD** — Develop the actual project and implement its features.
+4. 🧪 **TEST** — Experiment, debug, evaluate and improve.
+5. ☁️ **DEPLOY** — Make the project accessible through deployment.
+6. 🎬 **SHARE** — Document the complete journey through The Build Log.
 
-<p align="center">
-  <strong>03. BUILD</strong><br>
-  Develop the project and implement its features.
-</p>
-
-<p align="center">
-  <strong>04. TEST</strong><br>
-  Experiment, debug, evaluate and improve.
-</p>
-
-<p align="center">
-  <strong>05. DEPLOY</strong><br>
-  Launch the application and make it accessible.
-</p>
-
-<p align="center">
-  <strong>06. SHARE</strong><br>
-  Document the complete journey through The Build Log.
-</p>
+Not every project follows the exact same process. Some experiments may evolve, change direction, or lead to entirely new ideas.
 
 ---
 
@@ -185,9 +161,9 @@
 
 ---
 
-<h2 align="center">🗂️ REPOSITORY STRUCTURE</h2>
+# 🗂️ Repository Structure
 
-<pre align="center">
+```text
 ThinkHub-Build-Log/
 │
 ├── README.md
@@ -203,6 +179,7 @@ ThinkHub-Build-Log/
 ├── thumbnails/
 │   ├── 01.png
 │   ├── 02.png
+│   ├── 03.png
 │   └── ...
 │
 ├── projects/
@@ -213,69 +190,35 @@ ThinkHub-Build-Log/
 └── documentation/
     ├── project-notes/
     └── resources/
-</pre>
+```
 
 ---
 
-<h2 align="center">📺 THE THINKHUB CONTENT UNIVERSE</h2>
+# 📺 ThinkHub Content Universe
 
-<h3 align="center">📰 BEYOND THE HEADLINES</h3>
+ThinkHub brings together different content formats, each with its own purpose.
 
-<p align="center">
-  A daily news and analysis series exploring current affairs, technology, AI, geopolitics, business, science and the deeper perspective behind important headlines.
-</p>
+### 📰 Beyond The Headlines
 
-<p align="center"><strong>Daily. News. Perspective.</strong></p>
+A daily news and analysis series exploring current affairs, technology, AI, geopolitics, business, science and the deeper perspective behind important headlines.
 
-<h3 align="center">🎓 THINKHUB DECODED</h3>
+**Daily. News. Perspective.**
 
-<p align="center">
-  A weekly educational series exploring artificial intelligence, data science, programming, technology, careers, roadmaps and important concepts.
-</p>
+### 🎓 ThinkHub Decoded
 
-<p align="center"><strong>Weekly. Knowledge. Growth.</strong></p>
+A weekly educational series covering technology, artificial intelligence, data science, programming, career roadmaps, tutorials and important concepts.
 
-<h3 align="center">🔨 THE BUILD LOG</h3>
+**Weekly. Knowledge. Growth.**
 
-<p align="center">
-  A project-building series showcasing real-world development, AI applications, experiments, software projects and innovation.
-</p>
+### 🔨 The Build Log
 
-<p align="center"><strong>Build. Experiment. Create.</strong></p>
+A project-building series documenting real development journeys, experiments, AI applications, software projects and innovations.
+
+**Build. Experiment. Create.**
 
 ---
 
-<h2 align="center">🧠 THE THINKHUB PHILOSOPHY</h2>
-
-<h1 align="center">THINK. LEARN. GROW.</h1>
-
-<p align="center">
-  💭 <strong>THINK</strong><br>
-  Question ideas. Explore possibilities. Think beyond limitations.
-</p>
-
-<p align="center">
-  📚 <strong>LEARN</strong><br>
-  Understand technologies. Develop skills. Learn through experimentation.
-</p>
-
-<p align="center">
-  🚀 <strong>BUILD</strong><br>
-  Turn knowledge into practical solutions. Create. Test. Improve.
-</p>
-
-<p align="center">
-  🌱 <strong>GROW</strong><br>
-  Share experiences. Learn from failures. Keep moving forward.
-</p>
-
-<p align="center">
-  <i>"Don't just learn how things work. Build something that works."</i>
-</p>
-
----
-
-<h2 align="center">🔗 CONNECT WITH THINKHUB</h2>
+# 🔗 Connect With ThinkHub
 
 <p align="center">
   <a href="https://www.youtube.com/@ThinkHubbydaksh">
