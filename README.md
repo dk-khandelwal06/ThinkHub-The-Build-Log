@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://www.youtube.com/@ThinkHubbydaksh">
+  <a href="https://www.youtube.com/playlist?list=PLeK8iXKBaJgQ">
     The Build Log
   </a>
 </h1>
