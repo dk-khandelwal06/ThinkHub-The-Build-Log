@@ -76,11 +76,11 @@ The series officially begins on **1st November 2026**, with new episodes on alte
 
 <div align="center">
 
-| 🖼️ THUMBNAIL | 📅 DATE | 🎯 EPISODE | 💻 PROJECT | ▶️ VIDEO |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="thumbnails/01.png" width="200"> | 01 Nov | Project 01 | Coming Soon | [Watch](#) |
-| <img src="thumbnails/02.png" width="200"> | 15 Nov | Project 02 | Coming Soon | [Watch](#) |
-| <img src="thumbnails/03.png" width="200"> | 29 Nov | Project 03 | Coming Soon | [Watch](#) |
+| 🖼️ THUMBNAIL | 📅 DATE | 🎯 EPISODE | 💻 PROJECT | ▶️ VIDEO | 📑 SLIDES | 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="thumbnails/01.png" width="200"> | **01 Nov 2026** | **I Built AQI Sentinel 🌿 - Real Time Air Quality Monitoring & AI-Powered Health Advisory** | [GitHub Repo]() & [Live Link]() | [▶️ Watch]() | [📑 View Slides]()
+| <img src="thumbnails/02.png" width="200"> | **15 Nov 2026** | **** | Coming Soon | [▶️ Watch]() | [📑 View Slides]()
+| <img src="thumbnails/03.png" width="200"> | **29 Nov 2026** | **** | Coming Soon | [▶️ Watch]() | [📑 View Slides]()
 
 </div>
 
@@ -88,10 +88,10 @@ The series officially begins on **1st November 2026**, with new episodes on alte
 
 <div align="center">
 
-| 🖼️ THUMBNAIL | 📅 DATE | 🎯 EPISODE | 💻 PROJECT | ▶️ VIDEO |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="thumbnails/04.png" width="200"> | 13 Dec | Project 04 | Coming Soon | [Watch](#) |
-| <img src="thumbnails/05.png" width="200"> | 27 Dec | Project 05 | Coming Soon | [Watch](#) |
+| 🖼️ THUMBNAIL | 📅 DATE | 🎯 EPISODE | 💻 PROJECT | ▶️ VIDEO | 📑 SLIDES | 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="thumbnails/04.png" width="200"> | **13 Dec 2026** | **** | Coming Soon | [▶️ Watch]() | [📑 View Slides]()
+| <img src="thumbnails/05.png" width="200"> | **27 Dec 2026** | **** | Coming Soon | [▶️ Watch]() | [📑 View Slides]()
 
 </div>
 
