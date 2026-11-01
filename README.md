@@ -90,8 +90,8 @@ The series officially begins on **1st November 2026**, with new episodes on alte
 
 | 🖼️ THUMBNAIL | 📅 DATE | 🎯 EPISODE | 💻 PROJECT | ▶️ VIDEO | 📑 SLIDES | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="thumbnails/04.png" width="200"> | **13 Dec 2026** | **** | Coming Soon | [▶️ Watch]() | [📑 View Slides]()
-| <img src="thumbnails/05.png" width="200"> | **27 Dec 2026** | **** | Coming Soon | [▶️ Watch]() | [📑 View Slides]()
+| <img src="thumbnails/04.png" width="200"> | **13 Dec 2026** | **** | [GitHub Repo]() & [Live Link]() | [▶️ Watch]() | [📑 View Slides]()
+| <img src="thumbnails/05.png" width="200"> | **27 Dec 2026** | **** | [GitHub Repo]() & [Live Link]() | [▶️ Watch]() | [📑 View Slides]()
 
 </div>
 
