@@ -79,8 +79,8 @@ The series officially begins on **1st November 2026**, with new episodes on alte
 | 🖼️ THUMBNAIL | 📅 DATE | 🎯 EPISODE | 💻 PROJECT | ▶️ VIDEO | 📑 SLIDES | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="thumbnails/01.png" width="200"> | **01 Nov 2026** | **I Built AQI Sentinel 🌿 - Real Time Air Quality Monitoring & AI-Powered Health Advisory** | [GitHub Repo](https://github.com/dk-khandelwal06/aqi-sentinel) & [Live Link](https://aqi-sentinel.vercel.app/) | [▶️ Watch](https://youtu.be/dIm6qxmxOn8) | [📑 View Slides](https://drive.google.com/file/d/1Y2XBkcItr3q4TQvAAO3FCHjmQbMg6SL-/view?usp=sharing)
-| <img src="thumbnails/02.png" width="200"> | **15 Nov 2026** | **** | Coming Soon | [▶️ Watch]() | [📑 View Slides]()
-| <img src="thumbnails/03.png" width="200"> | **29 Nov 2026** | **** | Coming Soon | [▶️ Watch]() | [📑 View Slides]()
+| <img src="thumbnails/02.png" width="200"> | **15 Nov 2026** | **SeismoWatch 🌍 - Building an Earthquake Monitoring & Anomaly Detection Platform** | [GitHub Repo](https://github.com/dk-khandelwal06/seismowatch) & [Live Link](https://seismowatch-sigma.vercel.app/) | [▶️ Watch]() | [📑 View Slides]()
+| <img src="thumbnails/03.png" width="200"> | **29 Nov 2026** | **** | [GitHub Repo]() & [Live Link]() | [▶️ Watch]() | [📑 View Slides]()
 
 </div>
 
