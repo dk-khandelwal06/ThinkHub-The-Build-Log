@@ -90,8 +90,8 @@ The series officially begins on **1st November 2026**, with new episodes on alte
 
 | 🖼️ THUMBNAIL | 📅 DATE | 🎯 EPISODE | 💻 PROJECT | ▶️ VIDEO | 📑 SLIDES | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="thumbnails/04.png" width="200"> | **13 Dec 2026** | **** | [GitHub Repo]() & [Live Link]() | [▶️ Watch]() | [📑 View Slides]()
-| <img src="thumbnails/05.png" width="200"> | **27 Dec 2026** | **** | [GitHub Repo]() & [Live Link]() | [▶️ Watch]() | [📑 View Slides]()
+| <img src="thumbnails/04.png" width="200"> | **13 Dec 2026** | **I Built CrashLens 🚦 - Detecting Road Accident Hotspots Using Machine Learning** | [GitHub Repo](https://github.com/dk-khandelwal06/crashlens) & [Live Link](https://crashlens-snowy.vercel.app/) | [▶️ Watch]() | [📑 View Slides](https://drive.google.com/file/d/1HqPh-G2R3OJHy3ANuwOKApIrFQW8P71s/view?usp=drive_link)
+| <img src="thumbnails/05.png" width="200"> | **27 Dec 2026** | **Can Machine Learning Predict Tomorrow's Electricity Demand? ⚡ - LoadCast** | [GitHub Repo](https://github.com/dk-khandelwal06/loadcast) & [Live Link](https://loadcast.vercel.app/) | [▶️ Watch]() | [📑 View Slides](https://drive.google.com/file/d/1ayeap4gZ0W7R14DQZ8_XyP36qGtNxgiN/view?usp=drive_link)
 
 </div>
 
